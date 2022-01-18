@@ -2258,18 +2258,18 @@ input, select, textarea {
 
 	}
 
-/* One */
+/* o-que-faco */
 
-	#one {
+	#o-que-faco {
 		background: url("images/overlay.png"), url("../../images/Ilha.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* quem-sou */
 
-	#two {
+	#quem-sou {
 		background: url("images/overlay.png"), url("../../images/perito_moreno.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
